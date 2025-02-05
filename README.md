@@ -16,6 +16,11 @@
 - **Loading Spinner:**  
   Displays a spinner while the model is generating a response to improve user experience.
 
+##Demo
+![](https://github.com/Carnage203/AI-Image-Analyzer/blob/a31d8d8a01f2297f7e71ba87cb72ce63c5a2a1a9/home%20page.png)
+![](https://github.com/Carnage203/AI-Image-Analyzer/blob/a31d8d8a01f2297f7e71ba87cb72ce63c5a2a1a9/wp1855659-messi-suarez-neymar-wallpapers.jpg)
+![](https://github.com/Carnage203/AI-Image-Analyzer/blob/a31d8d8a01f2297f7e71ba87cb72ce63c5a2a1a9/response.png)
+
 ## Installation
 
 ### Prerequisites
